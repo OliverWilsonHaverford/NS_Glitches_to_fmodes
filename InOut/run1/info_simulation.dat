@@ -1,0 +1,28 @@
+nv = 2000
+npin = 19987
+pin_config = annular
+r_annulus = 0.7071 R
+R = 10
+omega_0 = 20.0
+T_0 = 0.3141592653589793
+phi = 0.1
+V_1 = 2000
+V_2 = 2000
+n_ratio = 1
+a = 0.0125 R
+Xi = 0.0013 R
+N_ext = -0.000250 omega_0/T_0
+initial del_t = 0.015915 T_0
+
+trig_region = fullsector
+numb_trig = 0
+duration_trig = 0.000000 T_0
+sector_count = 8
+trig_type = stresswave
+Stabilization runtime = 100.00 T_0
+
+Simulation runtime = 2000.00 T_0
+
+Start time = Thu Apr 17 14:23:43 2025
+nv_out = 0
+
